@@ -7,6 +7,10 @@ This Guitar Amp is straightforward, it works and sounds great. Any feedback appr
 
 ![oveview](https://github.com/user-attachments/assets/4b9e8350-353e-4c2c-883b-4f41ec04b319)
 
+# Demo
+https://github.com/user-attachments/assets/a7c7ef76-c136-456c-b7f8-a1a015e33860
+
+
 # Features
 1. Based on the simple **LM386** amplifier IC integrated circuit
  ![image](https://github.com/user-attachments/assets/3a6b4c6d-d6de-4031-835d-a87ea6fb5e87)
