@@ -1,4 +1,4 @@
-﻿# pre-amplifier
+﻿# Pre-Amplifier by Hippo
 
 This simple amplifier brings nice overtones to any guitar and any synthesizer (see link on github)
 
