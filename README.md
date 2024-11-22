@@ -6,7 +6,8 @@ This simple amplifier brings nice overtones to my guitar or my synthesizer (link
 ![oveview](https://github.com/user-attachments/assets/4b9e8350-353e-4c2c-883b-4f41ec04b319)
 
 # Features
-1. based on simple LM386 integrated circuit
+1. Based on the simple LM386 amplifier IC integrated circuit ![image](https://github.com/user-attachments/assets/6cefde06-c6d6-44b8-99a2-06de7cbee73a)
+
 2. Volume knob, Gain knob, Saturation switch, on/off switch
 3. Nice amplification
 4. Nice ovetotes
