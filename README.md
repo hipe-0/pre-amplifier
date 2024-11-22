@@ -18,8 +18,8 @@ https://github.com/user-attachments/assets/a7c7ef76-c136-456c-b7f8-a1a015e33860
 4. Nice smooth amplification volume from 0 to maximum
 5. Nice ovetones after 80% of high gain knob
 6. No preceptible audio noise or problem
-7. **Distorsion** switch: I added simple clipping circuit using a single PNP transistor (S9012) ![image](https://github.com/user-attachments/assets/480d97f4-6392-442c-ab1c-eb6f65a24034)
-8. On the oscilloscope, the upper part of the guitar signal is entirely chopped-off. A very drastic clipping stage! Side effect: it reduces volume a bit and cuts trailing reverbs of guitar as often the case, but it's nice.
+7. **Distorsion** switch: For fun, I added simple clipping circuit using a single PNP transistor (S9012) ![image](https://github.com/user-attachments/assets/480d97f4-6392-442c-ab1c-eb6f65a24034)
+8. Consequence on the oscilloscope, the upper part of the guitar signal is entirely chopped-off. A very drastic clipping stage! Side effect: it reduces volume a bit and cuts trailing reverbs of guitar as often the case, but it's nice.
 
 # Shematic
 ![2024-11-17 Guitar Amp with LM386 IC PCB version_schéma](https://github.com/user-attachments/assets/6841a25a-a15e-4e94-b111-990fc29eecd8)
