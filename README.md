@@ -1,9 +1,9 @@
 ﻿# Pre-Amplifier by Hippo
 
-This simple amplifier brings nice overtones to my guitar or my synthesizer (link on github https://github.com/hipe-0/synthesizer).
+This DIY amplifier brings nice overtones to my guitar or my DIY synthesizer (link on github https://github.com/hipe-0/synthesizer).
 3D-Print and weld your own using the provided shematic and bill of materials!
 
-This is by no mean a highly polished guitar amp as I'm still learning, but it works for me and sounds awesome. Any feedback appreciated!
+This Guitar Amp is straightforward, but it works for me and sounds great. Any feedback appreciated!
 
 ![oveview](https://github.com/user-attachments/assets/4b9e8350-353e-4c2c-883b-4f41ec04b319)
 
