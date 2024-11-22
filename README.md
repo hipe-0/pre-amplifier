@@ -25,7 +25,7 @@ This is by no mean a highly polished guitar amp as I'm still learning, but it wo
 # PCB Printed circuit board (optional)
 ![2024-11-17 Guitar Amp with LM386 IC PCB version_circuit imprimé](https://github.com/user-attachments/assets/9d9245cc-9326-44e2-ba8a-51a9ef83d8e9)
 
-# bill of material
+# Bill of material
 - Enclosure box in PETG to print yourself (all 3D models are provided)
 - Enclosure lid in PETG
 - 4x PCB supports (to screw and glue)
