@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/a7c7ef76-c136-456c-b7f8-a1a015e33860
 - Either the printed PCB (gerber files are provided) or a prototype circuit board to weld yourself
 - Wire
 - 2x 6.5mm audio jack connectors (I used https://www.aliexpress.com/item/1005004458769152.html?spm=a2g0o.order_list.order_list_main.473.33de1802eYvuy3)
-- IC LM386
+- IC LM386 operational amplificator
 - PNP transistor S9012
 - Blue LED 5mm
 - Resistor 10K
