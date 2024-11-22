@@ -3,6 +3,8 @@
 This simple amplifier brings nice overtones to my guitar or my synthesizer (link on github https://github.com/hipe-0/synthesizer).
 3D-Print and weld your own using the provided shematic and bill of materials!
 
+This is by no mean a highly polished guitar amp, I'm a noob learning electronics, but it works for me. Any feedback appreciated!
+
 ![oveview](https://github.com/user-attachments/assets/4b9e8350-353e-4c2c-883b-4f41ec04b319)
 
 # Features
@@ -13,7 +15,7 @@ This simple amplifier brings nice overtones to my guitar or my synthesizer (link
 4. Nice ovetotes
 5. Saturation switch is a simple transistor based circuit
 
-# shematic
+# Shematic
 ![2024-11-17 Guitar Amp with LM386 IC PCB version_schéma](https://github.com/user-attachments/assets/6841a25a-a15e-4e94-b111-990fc29eecd8)
 
 # Prototype board view
