@@ -8,12 +8,13 @@ This is by no mean a highly polished guitar amp, I'm a noob learning electronics
 ![oveview](https://github.com/user-attachments/assets/4b9e8350-353e-4c2c-883b-4f41ec04b319)
 
 # Features
-1. Based on the simple LM386 amplifier IC integrated circuit ![image](https://github.com/user-attachments/assets/6cefde06-c6d6-44b8-99a2-06de7cbee73a)
-
-2. Volume knob, Gain knob, Saturation switch, on/off switch
-3. Nice amplification
-4. Nice ovetotes
-5. Saturation switch is a simple transistor based circuit
+1. Based on the simple LM386 amplifier IC integrated circuit
+  ![image](https://github.com/user-attachments/assets/6cefde06-c6d6-44b8-99a2-06de7cbee73a)
+3. Volume knob, Gain knob, Saturation switch, on/off switch
+4. Nice amplification volume 
+5. Nice ovetones on high gain
+6. No preceptible audio noise or problem
+7. Saturation switch: simple PNP transistor based circuit. On the oscilloscope, I observe that the upper part of the guitar signal is entirely chopped-off. A very drastic clipping stage! (side effect: it reduces volume quite a bit, but it's nice)
 
 # Shematic
 ![2024-11-17 Guitar Amp with LM386 IC PCB version_schéma](https://github.com/user-attachments/assets/6841a25a-a15e-4e94-b111-990fc29eecd8)
