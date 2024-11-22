@@ -1,0 +1,33 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=2024-11-17 Guitar Amp with LM386 IC PCB version
+# Date=08:35:06
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+R4,"10k;;;;;0.25W;;;","THT",1637.99,315.714,0,Top,THT
+C6,";10µF;;35V;;;;;","100 mil [THT, electrolytic]",637.989,465.714,-90,Top,THT
+OUT,";;;;;;;;","THT",2237.99,415.714,0,Top,THT
+led,";;;;;;;;","THT",1487.99,115.714,90,Top,THT
+IN,";;;;;;;;","THT",1187.99,115.714,90,Top,THT
+C8,";4.7µF;;35V;;;;;","100 mil [THT, electrolytic]",1637.99,565.714,90,Top,THT
+S9012,";;;;;;;;","TO92 [THT]",1930.49,512.214,0,Top,THT
+Gain,";;;;;;;;","THT",587.989,715.714,-90,Top,THT
+R3,"1000;;;;;0.25W;;;","THT",1837.99,215.714,180,Top,THT
+Dist.,";;;;;;;;","THT",1987.99,715.714,90,Top,THT
+LM386,";;;;;;;;","dip08",986.7,466.086,0,Top,THT
+C7,";0.47mF;;35V;;;;;","100 mil [THT, electrolytic]",1337.99,665.714,90,Top,THT
+pot vol,";;;;;;;;","THT",837.989,115.714,90,Top,THT
+batt,";;;;;;;;","THT",137.989,365.714,0,Top,THT
+R7,"10;;;;;0.25W;;;","THT",1437.99,415.714,0,Top,THT
+C9,";10µF;;35V;;;;;","100 mil [THT, electrolytic]",337.989,465.714,-90,Top,THT
+C10,";0.47mF;;35V;;;;;","100 mil [THT, electrolytic]",437.989,165.714,90,Top,THT
