@@ -1,6 +1,7 @@
 ﻿# Pre-Amplifier by Hippo
 
-This simple amplifier brings nice overtones to any guitar and any synthesizer (see link on github)
+This simple amplifier brings nice overtones to my guitar or my synthesizer (link on github https://github.com/hipe-0/synthesizer).
+3D-Print and weld your own using the provided shematic and bill of materials!
 
 ![oveview](https://github.com/user-attachments/assets/4b9e8350-353e-4c2c-883b-4f41ec04b319)
 
@@ -19,3 +20,22 @@ This simple amplifier brings nice overtones to any guitar and any synthesizer (s
 
 # PCB Printed circuit board (optional)
 ![2024-11-17 Guitar Amp with LM386 IC PCB version_circuit imprimé](https://github.com/user-attachments/assets/9d9245cc-9326-44e2-ba8a-51a9ef83d8e9)
+
+# bill of material
+- Enclosure box in PETG to print yourself (all 3D models are provided)
+- Enclosure lid in PETG
+- 4x PCB supports (to screw and glue)
+- Either the printed PCB (gerber files are provided) or a prototype circuit board to weld yourself
+- Wire
+- 2x 6.5mm audio jack connectors (I used https://www.aliexpress.com/item/1005004458769152.html?spm=a2g0o.order_list.order_list_main.473.33de1802eYvuy3)
+- IC LM386
+- PNP transistor S9012
+- Blue LED 5mm
+- Resistor 10K
+- Resistor 1K
+- Resistor 10 Ohm
+- 2x Capacitors 0.47 mF
+- 1x Capacitor 4.7 uF
+- 2x Capacitor 10 uF
+- 2x Potentiometer 10K with caps
+- 18650 Li-ion battery with battery holder and 5v converter - charger (I used https://www.aliexpress.com/item/1005001621882169.html?spm=a2g0o.order_list.order_list_main.233.33de1802eYvuy3)
